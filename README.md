@@ -48,7 +48,7 @@ The application is designed following the Clean Architecture principles with a m
 
 | Home Screen                                      | Word Details Screen                                 |
 | ------------------------------------------------ | --------------------------------------------------- |
-| ![Home Screen](screenshots/home_screen.png)       | ![Word Details Screen](screenshots/word_details.png) |
+| ![Home Screen](screenshorts/home_screen.png)       | ![Word Details Screen](screenshorts/word_details.png) |
 
 
 
